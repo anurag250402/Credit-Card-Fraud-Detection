@@ -196,7 +196,7 @@ Matthews Correlation Coefficient: 0.8800
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is open-source and free to use.
 
 ---
 
